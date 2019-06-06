@@ -29,7 +29,7 @@ public class star1 {
 			}
 			else
 			{
-				
+				System.out.println("Checkinggggggggggg.........................");
 			}
 			System.out.println();
 		}
